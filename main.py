@@ -2,8 +2,9 @@ import telebot
 import requests
 import time
 
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"
-API_URL = "https://your-api-url.up.railway.app/card"
+BOT_TOKEN = "6931964547:AAH-RBxt7FujFd79ehYR0jftlLeDQ7TAGlg"
+API_URL = "https://web-production-xxxx.up.railway.app/card
+"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
